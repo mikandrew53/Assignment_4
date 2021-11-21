@@ -1,0 +1,2 @@
+Since we have completed assignment 3 using node we have completed this assignment using node as well. This is a web application that spins up a server using express. 
+express responds to the client with static files that are updated by making api calls. express responds to those calls with JSON, which the frontend uses to update the view. 
